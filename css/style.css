@@ -1,24 +1,27 @@
+ /* general backgound */
 body{
   background-color: #083B4C;
 }
-h1{
+/* tittle */
+.tittle h1{
   color:white;
   text-align: center;
   font-size: 100px;
   font-family: Arial, Helvetica, sans-serif;
 }
+/* box design */
 .box{
   display: flex;
   justify-content: center;
   align-items: center;
   font-size: 25px;
   background-color:#1389b2;
-  width: 80px;
-  height: 80px;
-  color: white;
+  width: 160px;
+  height: 160px;
+  color: black;
   margin: 10px;
 }
-
+/* background fizz , buzz and fizzbuzz */
 .box.bg-fizz{
   background-color: #0cd6a1;
 }
