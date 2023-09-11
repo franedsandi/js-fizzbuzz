@@ -20,6 +20,7 @@ body{
   height: 160px;
   color: black;
   margin: 10px;
+  font-weight: bold;
 }
 /* background fizz , buzz and fizzbuzz */
 .box.bg-fizz{
